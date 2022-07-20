@@ -2,6 +2,13 @@
 
 The contracts for IPC: [the v0 contract](https://etherscan.io/token/0x4787993750b897fba6aad9e7328fc4f5c126e17c) and [the v1 (official) contract](https://etherscan.io/token/0x011C77fa577c500dEeDaD364b8af9e8540b808C0)
 
+## Usage
+- Look at the `.nvmrc` file for the NodeJS version used (or use `nvm use`)
+- `npm install`
+- Rename `.env.sample` to `.env`
+- Populate `INFURA_PROJECT_ID` and `INFURA_SECRET` in the `.env` file
+- Run the script like this `node get-metadata.js 420` where `420` is the token id you want. You can also specify `v0` if you want to query the v0 contract, like this: `node get-metadata.js 69 v0`
+
 ## Metadata
 
 The metadata is for the v1 contract (which is officialy supported by the IPC team). 
