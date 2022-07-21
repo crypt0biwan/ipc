@@ -1,0 +1,115 @@
+{
+  "description": "DESCRIPTION TBD",
+  "name": "NAME TBD #10925",
+  "image": "https://myipc.io/sprites/10925.gif",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "Subrace",
+      "value": "Ash Orc"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "6'6\""
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Handedness",
+      "value": "Left"
+    },
+    {
+      "trait_type": "Birth Year",
+      "value": "2022"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 13
+    },
+    {
+      "trait_type": "Force",
+      "value": 5
+    },
+    {
+      "trait_type": "Sustain",
+      "value": 3
+    },
+    {
+      "trait_type": "Tolerance",
+      "value": 5
+    },
+    {
+      "trait_type": "Dexterity",
+      "value": 15
+    },
+    {
+      "trait_type": "Speed",
+      "value": 6
+    },
+    {
+      "trait_type": "Precision",
+      "value": 4
+    },
+    {
+      "trait_type": "Reaction",
+      "value": 5
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 5
+    },
+    {
+      "trait_type": "Memory",
+      "value": 3
+    },
+    {
+      "trait_type": "Processing",
+      "value": 1
+    },
+    {
+      "trait_type": "Reasoning",
+      "value": 1
+    },
+    {
+      "trait_type": "Constitution",
+      "value": 14
+    },
+    {
+      "trait_type": "Healing",
+      "value": 5
+    },
+    {
+      "trait_type": "Fortitude",
+      "value": 5
+    },
+    {
+      "trait_type": "Vitality",
+      "value": 4
+    },
+    {
+      "trait_type": "Luck",
+      "value": 10
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "description": "DESCRIPTION TBD",
+  "name": "NAME TBD #5780",
+  "image": "https://myipc.io/sprites/5780.gif",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "Subrace",
+      "value": "Plains Orc"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "6'2\""
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Handedness",
+      "value": "Right"
+    },
+    {
+      "trait_type": "Birth Year",
+      "value": "2022"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 8
+    },
+    {
+      "trait_type": "Force",
+      "value": 5
+    },
+    {
+      "trait_type": "Sustain",
+      "value": 2
+    },
+    {
+      "trait_type": "Tolerance",
+      "value": 1
+    },
+    {
+      "trait_type": "Dexterity",
+      "value": 16
+    },
+    {
+      "trait_type": "Speed",
+      "value": 6
+    },
+    {
+      "trait_type": "Precision",
+      "value": 5
+    },
+    {
+      "trait_type": "Reaction",
+      "value": 5
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 8
+    },
+    {
+      "trait_type": "Memory",
+      "value": 2
+    },
+    {
+      "trait_type": "Processing",
+      "value": 4
+    },
+    {
+      "trait_type": "Reasoning",
+      "value": 2
+    },
+    {
+      "trait_type": "Constitution",
+      "value": 13
+    },
+    {
+      "trait_type": "Healing",
+      "value": 6
+    },
+    {
+      "trait_type": "Fortitude",
+      "value": 2
+    },
+    {
+      "trait_type": "Vitality",
+      "value": 5
+    },
+    {
+      "trait_type": "Luck",
+      "value": 10
+    }
+  ]
+}

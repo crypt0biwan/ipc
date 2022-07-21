@@ -1,0 +1,115 @@
+{
+  "description": "DESCRIPTION TBD",
+  "name": "NAME TBD #5703",
+  "image": "https://myipc.io/sprites/5703.gif",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Subrace",
+      "value": "Nordic Human"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "5'8\""
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Icy"
+    },
+    {
+      "trait_type": "Handedness",
+      "value": "Right"
+    },
+    {
+      "trait_type": "Birth Year",
+      "value": "2022"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 11
+    },
+    {
+      "trait_type": "Force",
+      "value": 4
+    },
+    {
+      "trait_type": "Sustain",
+      "value": 2
+    },
+    {
+      "trait_type": "Tolerance",
+      "value": 5
+    },
+    {
+      "trait_type": "Dexterity",
+      "value": 12
+    },
+    {
+      "trait_type": "Speed",
+      "value": 3
+    },
+    {
+      "trait_type": "Precision",
+      "value": 4
+    },
+    {
+      "trait_type": "Reaction",
+      "value": 5
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 10
+    },
+    {
+      "trait_type": "Memory",
+      "value": 2
+    },
+    {
+      "trait_type": "Processing",
+      "value": 6
+    },
+    {
+      "trait_type": "Reasoning",
+      "value": 2
+    },
+    {
+      "trait_type": "Constitution",
+      "value": 14
+    },
+    {
+      "trait_type": "Healing",
+      "value": 4
+    },
+    {
+      "trait_type": "Fortitude",
+      "value": 4
+    },
+    {
+      "trait_type": "Vitality",
+      "value": 6
+    },
+    {
+      "trait_type": "Luck",
+      "value": 10
+    }
+  ]
+}

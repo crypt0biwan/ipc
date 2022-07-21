@@ -1,0 +1,115 @@
+{
+  "description": "DESCRIPTION TBD",
+  "name": "NAME TBD #5847",
+  "image": "https://myipc.io/sprites/5847.gif",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Subrace",
+      "value": "Coastal Human"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "5'0\""
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Handedness",
+      "value": "Right"
+    },
+    {
+      "trait_type": "Birth Year",
+      "value": "2022"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 13
+    },
+    {
+      "trait_type": "Force",
+      "value": 6
+    },
+    {
+      "trait_type": "Sustain",
+      "value": 6
+    },
+    {
+      "trait_type": "Tolerance",
+      "value": 1
+    },
+    {
+      "trait_type": "Dexterity",
+      "value": 9
+    },
+    {
+      "trait_type": "Speed",
+      "value": 6
+    },
+    {
+      "trait_type": "Precision",
+      "value": 1
+    },
+    {
+      "trait_type": "Reaction",
+      "value": 2
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 12
+    },
+    {
+      "trait_type": "Memory",
+      "value": 6
+    },
+    {
+      "trait_type": "Processing",
+      "value": 1
+    },
+    {
+      "trait_type": "Reasoning",
+      "value": 5
+    },
+    {
+      "trait_type": "Constitution",
+      "value": 4
+    },
+    {
+      "trait_type": "Healing",
+      "value": 1
+    },
+    {
+      "trait_type": "Fortitude",
+      "value": 1
+    },
+    {
+      "trait_type": "Vitality",
+      "value": 2
+    },
+    {
+      "trait_type": "Luck",
+      "value": 12
+    }
+  ]
+}

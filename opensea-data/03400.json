@@ -1,0 +1,115 @@
+{
+  "description": "DESCRIPTION TBD",
+  "name": "NAME TBD #3400",
+  "image": "https://myipc.io/sprites/3400.gif",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Elf"
+    },
+    {
+      "trait_type": "Subrace",
+      "value": "High Elf"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "6'4\""
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Handedness",
+      "value": "Right"
+    },
+    {
+      "trait_type": "Birth Year",
+      "value": "2022"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 9
+    },
+    {
+      "trait_type": "Force",
+      "value": 2
+    },
+    {
+      "trait_type": "Sustain",
+      "value": 5
+    },
+    {
+      "trait_type": "Tolerance",
+      "value": 2
+    },
+    {
+      "trait_type": "Dexterity",
+      "value": 10
+    },
+    {
+      "trait_type": "Speed",
+      "value": 6
+    },
+    {
+      "trait_type": "Precision",
+      "value": 2
+    },
+    {
+      "trait_type": "Reaction",
+      "value": 2
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 5
+    },
+    {
+      "trait_type": "Memory",
+      "value": 1
+    },
+    {
+      "trait_type": "Processing",
+      "value": 3
+    },
+    {
+      "trait_type": "Reasoning",
+      "value": 1
+    },
+    {
+      "trait_type": "Constitution",
+      "value": 14
+    },
+    {
+      "trait_type": "Healing",
+      "value": 3
+    },
+    {
+      "trait_type": "Fortitude",
+      "value": 5
+    },
+    {
+      "trait_type": "Vitality",
+      "value": 6
+    },
+    {
+      "trait_type": "Luck",
+      "value": 12
+    }
+  ]
+}

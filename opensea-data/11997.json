@@ -1,0 +1,115 @@
+{
+  "description": "DESCRIPTION TBD",
+  "name": "NAME TBD #11997",
+  "image": "https://myipc.io/sprites/11997.gif",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Subrace",
+      "value": "Lumber Dwarf"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "4'3\""
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Handedness",
+      "value": "Right"
+    },
+    {
+      "trait_type": "Birth Year",
+      "value": "2022"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 9
+    },
+    {
+      "trait_type": "Force",
+      "value": 5
+    },
+    {
+      "trait_type": "Sustain",
+      "value": 1
+    },
+    {
+      "trait_type": "Tolerance",
+      "value": 3
+    },
+    {
+      "trait_type": "Dexterity",
+      "value": 10
+    },
+    {
+      "trait_type": "Speed",
+      "value": 3
+    },
+    {
+      "trait_type": "Precision",
+      "value": 4
+    },
+    {
+      "trait_type": "Reaction",
+      "value": 3
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 9
+    },
+    {
+      "trait_type": "Memory",
+      "value": 4
+    },
+    {
+      "trait_type": "Processing",
+      "value": 2
+    },
+    {
+      "trait_type": "Reasoning",
+      "value": 3
+    },
+    {
+      "trait_type": "Constitution",
+      "value": 4
+    },
+    {
+      "trait_type": "Healing",
+      "value": 1
+    },
+    {
+      "trait_type": "Fortitude",
+      "value": 2
+    },
+    {
+      "trait_type": "Vitality",
+      "value": 1
+    },
+    {
+      "trait_type": "Luck",
+      "value": 13
+    }
+  ]
+}
