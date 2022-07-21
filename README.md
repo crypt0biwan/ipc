@@ -11,8 +11,8 @@ The contracts for IPC: [the v0 contract](https://etherscan.io/token/0x4787993750
 
 ## Metadata
 
-The metadata is for the v1 contract (which is officialy supported by the IPC team). 
-Reverse engineering it I was able to generate the metadata based on the attribute seed and the dna properties.
+The metadata in the `data/` folder is for the v1 contract (which is officialy supported by the IPC team). 
+Reverse engineering it I was able to generate the same metadata based on the attribute seed and the dna properties (so I could also generate the metadata for the v0 contract)
 Here's some of the metadata so it's easily to scan when you're looking at a JSON file
 
 ### race
