@@ -1,0 +1,115 @@
+{
+  "description": "DESCRIPTION TBD",
+  "name": "Kaylessa Kristhyra",
+  "image": "https://myipc.io/sprites/v0/345.gif",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Subrace",
+      "value": "Quarry Dwarf"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "4'4\""
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Handedness",
+      "value": 2
+    },
+    {
+      "trait_type": "Birth Year",
+      "value": 2022
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 6
+    },
+    {
+      "trait_type": "Force",
+      "value": 2
+    },
+    {
+      "trait_type": "Sustain",
+      "value": 2
+    },
+    {
+      "trait_type": "Tolerance",
+      "value": 2
+    },
+    {
+      "trait_type": "Dexterity",
+      "value": 12
+    },
+    {
+      "trait_type": "Speed",
+      "value": 2
+    },
+    {
+      "trait_type": "Precision",
+      "value": 5
+    },
+    {
+      "trait_type": "Reaction",
+      "value": 5
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 13
+    },
+    {
+      "trait_type": "Memory",
+      "value": 6
+    },
+    {
+      "trait_type": "Processing",
+      "value": 4
+    },
+    {
+      "trait_type": "Reasoning",
+      "value": 3
+    },
+    {
+      "trait_type": "Constitution",
+      "value": 6
+    },
+    {
+      "trait_type": "Healing",
+      "value": 2
+    },
+    {
+      "trait_type": "Fortitude",
+      "value": 3
+    },
+    {
+      "trait_type": "Vitality",
+      "value": 1
+    },
+    {
+      "trait_type": "Luck",
+      "value": 12
+    }
+  ]
+}

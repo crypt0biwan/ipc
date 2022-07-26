@@ -1,0 +1,115 @@
+{
+  "description": "DESCRIPTION TBD",
+  "name": "alotrobo",
+  "image": "https://myipc.io/sprites/v0/147.gif",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "Subrace",
+      "value": "Swamp Orc"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "6'5\""
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "Forest Green"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eye Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Handedness",
+      "value": 2
+    },
+    {
+      "trait_type": "Birth Year",
+      "value": 2022
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 6
+    },
+    {
+      "trait_type": "Force",
+      "value": 2
+    },
+    {
+      "trait_type": "Sustain",
+      "value": 2
+    },
+    {
+      "trait_type": "Tolerance",
+      "value": 2
+    },
+    {
+      "trait_type": "Dexterity",
+      "value": 10
+    },
+    {
+      "trait_type": "Speed",
+      "value": 3
+    },
+    {
+      "trait_type": "Precision",
+      "value": 3
+    },
+    {
+      "trait_type": "Reaction",
+      "value": 4
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 13
+    },
+    {
+      "trait_type": "Memory",
+      "value": 5
+    },
+    {
+      "trait_type": "Processing",
+      "value": 4
+    },
+    {
+      "trait_type": "Reasoning",
+      "value": 4
+    },
+    {
+      "trait_type": "Constitution",
+      "value": 12
+    },
+    {
+      "trait_type": "Healing",
+      "value": 5
+    },
+    {
+      "trait_type": "Fortitude",
+      "value": 3
+    },
+    {
+      "trait_type": "Vitality",
+      "value": 4
+    },
+    {
+      "trait_type": "Luck",
+      "value": 11
+    }
+  ]
+}
